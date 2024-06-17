@@ -1039,6 +1039,14 @@
     "format": "png"
   }]
 }, {
+  "name": "ham",
+  "icons": [{
+    "url": "ipfs://QmcbYVenTET9HBS7vs7SGv1MNqnRscAKVF5kaRVHaVCfvs",
+    "width": 500,
+    "height": 500,
+    "format": "jpg"
+  }]
+}, {
   "name": "nativ3",
   "icons": [{
     "url": "ipfs://QmVzJDndPui6qBSeJWe5kMLA56C3KpVhqqqk9xvVKE1DGb",
@@ -1348,6 +1356,14 @@
     "url": "ipfs://QmeSvQcD3XvLFAiMLoQSPbGK9JxVfbCWPBUTMLhhhzYPqX",
     "width": 16000,
     "height": 16000,
+    "format": "png"
+  }]
+}, {
+  "name": "iChain",
+  "icons": [{
+    "url": "ipfs://QmcumhDxUyoLTHkcMKgPqkpGnnjwSTqE2KGFnDXXFY8mMo",
+    "width": 40,
+    "height": 38,
     "format": "png"
   }]
 }, {
@@ -1687,6 +1703,14 @@
     "format": "png"
   }]
 }, {
+  "name": "ailayer",
+  "icons": [{
+    "url": "ipfs://QmYoqc8rm8PrBg9jqfpsrxd6zdPEqDozbyNVMkBo3QMAFP",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "hubblenet",
   "icons": [{
     "url": "ipfs://QmU9t9fZaWiqpAZ9dw2ojTpJycnB8BxekLWVSCJikJVgjW",
@@ -1820,6 +1844,14 @@
     "url": "ipfs://QmeMa6aw3ebUKJdGgbzDgcVtggzp7cQdfSrmzMYmnt5ywc",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "nal",
+  "icons": [{
+    "url": "ipfs://QmZLZHX18YUswejxo1JFNPx5EwMsVhUwBeBWEcd1JUHAK5",
+    "width": 640,
+    "height": 640,
     "format": "png"
   }]
 }, {
@@ -3047,6 +3079,14 @@
     "format": "png"
   }]
 }, {
+  "name": "crossfi",
+  "icons": [{
+    "url": "ipfs://QmbRJzDeAdMkEXkqDwBwezpUxyjTPHZ2iXEomqKPvWZcWE",
+    "width": 40,
+    "height": 42,
+    "format": "svg"
+  }]
+}, {
   "name": "phoenix",
   "icons": [{
     "url": "ipfs://QmYiLMeKDXMSNuQmtxNdxm53xR588pcRXMf7zuiZLjQnc6",
@@ -3727,6 +3767,14 @@
     "format": "png"
   }]
 }, {
+  "name": "layerEdge",
+  "icons": [{
+    "url": "ipfs://QmT2RotFAn8edji6FqBiP1TpTb1EFqHr28qbQGoRaJ9nTN",
+    "width": 218,
+    "height": 211,
+    "format": "svg"
+  }]
+}, {
   "name": "camino",
   "icons": [{
     "url": "ipfs://QmSEoUonisawfCvT3osysuZzbqUEHugtgNraePKWL8PKYa",
@@ -3741,6 +3789,14 @@
     "width": 401,
     "height": 401,
     "format": "svg"
+  }]
+}, {
+  "name": "volley",
+  "icons": [{
+    "url": "ipfs://Qmd8hyeNQ2zvJh6b1F1A7ujKaDAoznqA9ejH2RJdRaimUk",
+    "width": 512,
+    "height": 514,
+    "format": "png"
   }]
 }, {
   "name": "teleport",
@@ -3988,6 +4044,14 @@
     "url": "ipfs://QmWSbMuCwQzhBB6GRLYqZ87n5cnpzpYCehCAMMQmUXj4mm",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "seedTestnet",
+  "icons": [{
+    "url": "ipfs://QmVa1MhJhixPzFfvhggQWg8hLtS77vg7QFvQtQGrXbVYSg",
+    "width": 1200,
+    "height": 1200,
     "format": "png"
   }]
 }, {
@@ -4423,6 +4487,14 @@
     "format": "png"
   }]
 }, {
+  "name": "metaLink",
+  "icons": [{
+    "url": "ipfs://QmfSXRkDPSwt7heQ24pDtWKN6vvervEaTJHmueyRp1mpg1",
+    "width": 800,
+    "height": 800,
+    "format": "jpg"
+  }]
+}, {
   "name": "siriusnet",
   "icons": [{
     "url": "ipfs://bafybeicxuxdzrzpwsil4owqmn7wpwka2rqsohpfqmukg57pifzyxr5om2q",
@@ -4460,6 +4532,14 @@
     "url": "ipfs://qmxhs7fvjanzwm14vjpbnmklre32gsiy9chsarrnbtfa1n",
     "width": 1280,
     "height": 1280,
+    "format": "png"
+  }]
+}, {
+  "name": "open-campus-codex",
+  "icons": [{
+    "url": "ipfs://QmXbz7VEYvf6NVHezuBy5HpJTCiagEThBxxdDdfVXNQ8Bt",
+    "width": 30,
+    "height": 30,
     "format": "png"
   }]
 }, {
@@ -4506,6 +4586,14 @@
   "name": "maal",
   "icons": [{
     "url": "ipfs://bafkreiexfqfe2x4impvwhra3xxa5eb25gv25zi3kkaoatdnld7wbxdzf2a",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "cuckoo-ai",
+  "icons": [{
+    "url": "ipfs://QmZjVDfk56DjqkCPymaweJJaj9ASGjjgcwJ95XsFDzj9us",
     "width": 512,
     "height": 512,
     "format": "png"
@@ -4628,6 +4716,14 @@
     "url": "ipfs://QmeRq7pabiJE2n1xU3Y5Mb4TZSX9kQ74x7a3P2Z4PqcMRX",
     "width": 1450,
     "height": 1450,
+    "format": "png"
+  }]
+}, {
+  "name": "pentagon",
+  "icons": [{
+    "url": "ipfs://QmfU7W3Tm3tGWgnHBTG9vjB4PXGMvcL7Cq8R6MaSaC33DC",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -5005,6 +5101,14 @@
     "width": 713,
     "height": 830,
     "format": "png"
+  }]
+}, {
+  "name": "coinsec",
+  "icons": [{
+    "url": "ipfs://QmeUyBe58BPndt6SpH9Tn1a8AYpNtHbMVhVyZt8Ppc4HTB",
+    "width": 200,
+    "height": 200,
+    "format": "svg"
   }]
 }, {
   "name": "fncy",
