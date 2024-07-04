@@ -3288,6 +3288,19 @@
   "faucets": [],
   "infoURL": "https://www.trias.one"
 }, {
+  "name": "Shape",
+  "chainId": 360,
+  "shortName": "shape",
+  "networkId": 360,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://shape.us"
+}, {
   "name": "Theta Mainnet",
   "chainId": 361,
   "shortName": "theta-mainnet",
@@ -3677,6 +3690,19 @@
   "rpc": ["https://mainnet-rpc.areon.network", "https://mainnet-rpc2.areon.network", "https://mainnet-rpc3.areon.network", "https://mainnet-rpc4.areon.network", "https://mainnet-rpc5.areon.network"],
   "faucets": [],
   "infoURL": "https://areon.network"
+}, {
+  "name": "World Chain",
+  "chainId": 480,
+  "shortName": "wc",
+  "networkId": 480,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://worldcoin.org"
 }, {
   "name": "Rupaya",
   "chainId": 499,
@@ -5121,6 +5147,19 @@
   "faucets": ["https://faucet.metamemo.one/"],
   "infoURL": "www.memolabs.org"
 }, {
+  "name": "BinaryChain Mainnet",
+  "chainId": 987,
+  "shortName": "binary",
+  "networkId": 987,
+  "nativeCurrency": {
+    "name": "BINARY",
+    "symbol": "BNRY",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.binarychain.org"],
+  "faucets": [],
+  "infoURL": "https://binarychain.org"
+}, {
   "name": "TOP Mainnet",
   "chainId": 989,
   "shortName": "top",
@@ -5848,6 +5887,19 @@
   "rpc": ["https://dataseed.iorachain.com"],
   "faucets": [],
   "infoURL": "https://iorachain.com"
+}, {
+  "name": "Cuckoo Chain",
+  "chainId": 1200,
+  "shortName": "cai",
+  "networkId": 1200,
+  "nativeCurrency": {
+    "name": "CuckooAI",
+    "symbol": "CAI",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.cuckoo.network", "wss://mainnet-rpc.cuckoo.network"],
+  "faucets": [],
+  "infoURL": "https://cuckoo.network"
 }, {
   "name": "Evanesco Testnet",
   "chainId": 1201,
@@ -6694,6 +6746,19 @@
   "faucets": [],
   "infoURL": "https://gravity.xyz"
 }, {
+  "name": "Pivotal Mainnet",
+  "chainId": 1648,
+  "shortName": "pivotal-mainnet",
+  "networkId": 1648,
+  "nativeCurrency": {
+    "name": "Pivotal Plus",
+    "symbol": "PLUS",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.pivotalprotocol.com"],
+  "faucets": [],
+  "infoURL": "http://thepivotal.xyz/"
+}, {
   "name": "Btachain",
   "chainId": 1657,
   "shortName": "bta",
@@ -7408,6 +7473,19 @@
   "rpc": ["https://mainnet.sanko.xyz"],
   "faucets": [],
   "infoURL": "https://sanko.xyz/"
+}, {
+  "name": "Kyoto",
+  "chainId": 1997,
+  "shortName": "kyoto",
+  "networkId": 1997,
+  "nativeCurrency": {
+    "name": "Kyoto",
+    "symbol": "KYOTO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.kyotochain.io"],
+  "faucets": [],
+  "infoURL": "https://kyotoprotocol.io"
 }, {
   "name": "Kyoto Testnet",
   "chainId": 1998,
@@ -8227,6 +8305,19 @@
   "rpc": [],
   "faucets": [],
   "infoURL": ""
+}, {
+  "name": "Chronicle Vesuvius - Lit Protocol Testnet",
+  "chainId": 2311,
+  "shortName": "lpv",
+  "networkId": 2311,
+  "nativeCurrency": {
+    "name": "Test LPX",
+    "symbol": "tstLPX",
+    "decimals": 18
+  },
+  "rpc": ["https://vesuvius-rpc.litprotocol.com"],
+  "faucets": ["https://developer.litprotocol.com/support/intro"],
+  "infoURL": "https://litprotocol.com"
 }, {
   "name": "SOMA Network Testnet",
   "chainId": 2323,
@@ -9111,6 +9202,19 @@
   "rpc": ["https://testnet-rpc.layeredge.io"],
   "faucets": ["https://testnet-faucet.layeredge.io"],
   "infoURL": "https://www.layeredge.io"
+}, {
+  "name": "GTCSCAN",
+  "chainId": 3490,
+  "shortName": "gtc",
+  "networkId": 3490,
+  "nativeCurrency": {
+    "name": "GTC",
+    "symbol": "GTC",
+    "decimals": 18
+  },
+  "rpc": ["https://gtc-dataseed.gtcscan.io/"],
+  "faucets": [],
+  "infoURL": "https://gtcscan.io/"
 }, {
   "name": "Paribu Net Testnet",
   "chainId": 3500,
@@ -12440,6 +12544,19 @@
   "faucets": ["https://faucet.imperiumchain.com/"],
   "infoURL": "https://imperiumchain.com"
 }, {
+  "name": "BinaryChain Testnet",
+  "chainId": 9876,
+  "shortName": "binarytestnet",
+  "networkId": 9876,
+  "nativeCurrency": {
+    "name": "BINARY",
+    "symbol": "BNRY",
+    "decimals": 18
+  },
+  "rpc": ["https://rpctestnet.binarychain.org"],
+  "faucets": ["https://faucet.testnet.binarychain.org"],
+  "infoURL": "https://binarychain.org"
+}, {
   "name": "Dogelayer Mainnet",
   "chainId": 9888,
   "shortName": "Dogelayer",
@@ -13012,6 +13129,19 @@
   "faucets": ["https://faucet.sardisnetwork.com"],
   "infoURL": "https://mysardis.com"
 }, {
+  "name": "Artela Testnet",
+  "chainId": 11822,
+  "shortName": "Artela",
+  "networkId": 11822,
+  "nativeCurrency": {
+    "name": "ART",
+    "symbol": "ART",
+    "decimals": 18
+  },
+  "rpc": ["https://betanet-rpc1.artela.network"],
+  "faucets": [],
+  "infoURL": "https://artela.network/"
+}, {
   "name": "Santiment Intelligence Network DEPRECATED",
   "chainId": 11888,
   "shortName": "SANold",
@@ -13544,6 +13674,19 @@
   "rpc": ["https://rpc.defi-verse.org/"],
   "faucets": [],
   "infoURL": "https://defi-verse.org"
+}, {
+  "name": "Pivotal Sepolia",
+  "chainId": 16481,
+  "shortName": "pivotal-sepolia",
+  "networkId": 16481,
+  "nativeCurrency": {
+    "name": "Pivotal Plus",
+    "symbol": "PLUS",
+    "decimals": 18
+  },
+  "rpc": ["https://sepolia.pivotalprotocol.com"],
+  "faucets": [],
+  "infoURL": "http://thepivotal.xyz/"
 }, {
   "name": "Genesys Mainnet",
   "chainId": 16507,
@@ -14752,6 +14895,19 @@
   },
   "rpc": ["https://dev-api.zilliqa.com"],
   "faucets": ["https://dev-wallet.zilliqa.com/faucet?network=testnet"],
+  "infoURL": "https://www.zilliqa.com/"
+}, {
+  "name": "Zilliqa 2 EVM proto-testnet",
+  "chainId": 33103,
+  "shortName": "zq2-proto-testnet",
+  "networkId": 33103,
+  "nativeCurrency": {
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "decimals": 18
+  },
+  "rpc": ["https://api.zq2-prototestnet.zilliqa.com"],
+  "faucets": ["https://faucet.zq2-prototestnet.zilliqa.com"],
   "infoURL": "https://www.zilliqa.com/"
 }, {
   "name": "Entangle Testnet",
@@ -16466,7 +16622,7 @@
     "symbol": "BERA",
     "decimals": 18
   },
-  "rpc": ["https://bartio.rpc.berachain.com"],
+  "rpc": ["https://bartio.rpc.berachain.com", "https://bera-testnet.nodeinfra.com", "https://bartio.rpc.b-harvest.io"],
   "faucets": ["https://bartio.faucet.berachain.com"],
   "infoURL": "https://www.berachain.com"
 }, {
@@ -17692,6 +17848,19 @@
   "faucets": [],
   "infoURL": "https://taiko.xyz"
 }, {
+  "name": "Chronicle - Lit Protocol Testnet",
+  "chainId": 175177,
+  "shortName": "lpc",
+  "networkId": 175177,
+  "nativeCurrency": {
+    "name": "Test LIT",
+    "symbol": "tstLIT",
+    "decimals": 18
+  },
+  "rpc": ["https://chain-rpc.litprotocol.com/http"],
+  "faucets": ["https://faucet.litprotocol.com"],
+  "infoURL": "https://developer.litprotocol.com/v3/network/rollup"
+}, {
   "name": "Bitica Chain Mainnet",
   "chainId": 188710,
   "shortName": "bdcc",
@@ -18732,6 +18901,19 @@
   "faucets": [],
   "infoURL": "https://www.openchain.live"
 }, {
+  "name": "Autonomys Testnet Nova Domain",
+  "chainId": 490000,
+  "shortName": "ATN",
+  "networkId": 490000,
+  "nativeCurrency": {
+    "name": "Test Auto Coin",
+    "symbol": "TATC",
+    "decimals": 18
+  },
+  "rpc": ["https://nova-0.gemini-3h.subspace.network/ws"],
+  "faucets": [],
+  "infoURL": "https://www.autonomys.net"
+}, {
   "name": "Playdapp Network",
   "chainId": 504441,
   "shortName": "PDA",
@@ -19524,6 +19706,19 @@
   "rpc": ["https://subnets.avax.network/tiltyard/testnet/rpc"],
   "faucets": [],
   "infoURL": ""
+}, {
+  "name": "Sharecle Mainnet",
+  "chainId": 1234567,
+  "shortName": "shr",
+  "networkId": 1234567,
+  "nativeCurrency": {
+    "name": "SHARECLE COIN",
+    "symbol": "SHR",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.sharecle.com"],
+  "faucets": [],
+  "infoURL": "https://sharecle.com/"
 }, {
   "name": "zKatana",
   "chainId": 1261120,
